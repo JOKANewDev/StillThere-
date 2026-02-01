@@ -14,6 +14,10 @@ Agora, ao iniciar o programa, você decide o intervalo!
 3. Digite o número e aperte **Enter**.
 4. O app ficará em vigília. Se você não confirmar que está acordado quando a janela surgir, o PC desliga em 15 segundos.
 
+## ⬇️ Download
+Clique abaixo para baixar a versão mais recente com suporte a tempo customizável:
+[**Baixar Still There v1.1 (.exe)**](https://github.com/JOKANewDev/StillThere-/releases/tag/1.1)
+
 ## 🛠️ Tecnologias
 * Python 3
 * Tkinter (Interface Gráfica)
