@@ -18,3 +18,6 @@ Agora, ao iniciar o programa, você decide o intervalo!
 * Python 3
 * Tkinter (Interface Gráfica)
 * OS & Time (Controle de Sistema)
+**## 🛑 Como encerrar
+Para parar o monitoramento, basta fechar a janela do console ou pressionar `Ctrl + C` no seu teclado dentro do terminal. 
+*(Nota: Uma mensagem de 'KeyboardInterrupt' poderá aparecer, indicando que o processo foi encerrado com sucesso).***
